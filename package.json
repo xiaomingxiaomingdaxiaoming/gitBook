@@ -1,0 +1,23 @@
+{
+  "name": "gitBook",
+  "version": "1.0.0",
+  "description": "本次任务从冯骥才先生的《俗世奇人》作品中摘选四章，供您品阅。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaomingxiaomingdaxiaoming/gitBook.git"
+  },
+  "keywords": [],
+  "author": "liming",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaomingxiaomingdaxiaoming/gitBook/issues"
+  },
+  "homepage": "https://github.com/xiaomingxiaomingdaxiaoming/gitBook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
